@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React here - check travis CI.
+            Learn React here - check travis CI build.
           </a>
         </header>
       </div>
